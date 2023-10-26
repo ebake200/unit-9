@@ -1,0 +1,10 @@
+#nav{
+  display: none;
+}
+
+#wp-block-image{
+  display: none;
+}
+body{
+  font-size: 1.25em;
+}
